@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kuuhaku31 ~~~
-- 👀 Now learning HTML and JS...
+嘻嘻, 我一定要活到游戏人生出第二季的那一天
 
 <!---
 Kuuhaku31/Kuuhaku31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
